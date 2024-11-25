@@ -1,5 +1,5 @@
 <div align="center" width="50">
-   <image xlink:href="./imgs/wiser-07.png" /> 
+   <image href="https://github.com/user-attachments/assets/b15c4c1e-a5dd-41a8-9de5-05cc9f664ec7" /> 
 
 
   <img src="./logo.svg" alt="WA-Tech Logo" width="200"> 
