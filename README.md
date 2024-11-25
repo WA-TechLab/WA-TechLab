@@ -32,11 +32,7 @@ Feel free to reach out or check out our work:
 ---
 
 <div align="center">
-
   <h2>Join Our Mission 🚀</h2>
   <p>Empowering businesses through technology.</p>
-
-  <img src="./logo.svg" alt="WA-Tech Logo Animated" width="300">
-
 </div>
 
