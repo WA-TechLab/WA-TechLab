@@ -1,10 +1,11 @@
 <div align="center" width="50">
-   <image href="./imgs/wiser-07.png" 
+   <image xlink:href="./imgs/wiser-07.png" /> 
          x="200" 
          y="200" 
          width="100" 
          height="100" />
-  <!-- <img src="./logo.svg" alt="WA-Tech Logo" width="200"> -->
+
+  <img src="./logo.svg" alt="WA-Tech Logo" width="200"> 
 
 </div>
 
